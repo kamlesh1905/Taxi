@@ -2,5 +2,3 @@ feature line 1
 feature line 2
 
 New line is added
-
-New line is added by both
